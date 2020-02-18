@@ -1,6 +1,6 @@
 import * as helpers from "./helpers/index";
 
-const options = JSON.parse(`<%= JSON.stringify(options)`);
+const options = JSON.parse(`<%= JSON.stringify(options) %>`);
 
 const { namespace } = options;
 
