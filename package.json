@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "module.js",
   "author": "roman kuepper",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "consola": "^2.11.3"
+  }
 }
