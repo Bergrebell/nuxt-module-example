@@ -1,6 +1,7 @@
 const { resolve, join } = require("path");
 
 export default function(moduleOptions) {
+  // uses both ways of adding options in nuxt.config
   const options = {
     ...moduleOptions,
     ...this.options.customCounter
