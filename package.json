@@ -1,0 +1,7 @@
+{
+  "name": "custom-counter",
+  "version": "1.0.0",
+  "main": "module.js",
+  "author": "roman kuepper",
+  "license": "MIT"
+}
